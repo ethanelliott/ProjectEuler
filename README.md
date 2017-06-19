@@ -23,7 +23,7 @@ This repository is for my attempts and successes at completing the problems at [
 |14|[Longest Collatz sequence](https://projecteuler.net/problem=14)|Yes|
 |15|[Lattice paths](https://projecteuler.net/problem=15)|Yes|
 |16|[Power digit sum](https://projecteuler.net/problem=16)|Yes|
-|17|[Number letter counts](https://projecteuler.net/problem=17)|No|
+|17|[Number letter counts](https://projecteuler.net/problem=17)|Yes|
 |18|[Maximum path sum I](https://projecteuler.net/problem=18)|No|
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|No|
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|No|
