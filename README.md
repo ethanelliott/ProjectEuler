@@ -25,7 +25,7 @@ This repository is for my attempts and successes at completing the problems at [
 |16|[Power digit sum](https://projecteuler.net/problem=16)|Yes|
 |17|[Number letter counts](https://projecteuler.net/problem=17)|Yes|
 |18|[Maximum path sum I](https://projecteuler.net/problem=18)|Yes|
-|19|[Counting Sundays](https://projecteuler.net/problem=19)|No|
+|19|[Counting Sundays](https://projecteuler.net/problem=19)|Yes|
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|No|
 
 As I complete more I will update the table
