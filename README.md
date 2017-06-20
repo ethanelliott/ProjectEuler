@@ -27,7 +27,7 @@ This repository is for my attempts and successes at completing the problems at [
 |18|[Maximum path sum I](https://projecteuler.net/problem=18)|Yes|
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|Yes|
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|Yes|
-|21|[Amicable numbers](https://projecteuler.net/problem=21)|No|
+|21|[Amicable numbers](https://projecteuler.net/problem=21)|Yes|
 |22|[Names scores](https://projecteuler.net/problem=22)|No|
 |23|[Non-abundant sums](https://projecteuler.net/problem=23)|No|
 |24|[Lexicographic permutations](https://projecteuler.net/problem=24)|No|
