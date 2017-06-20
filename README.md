@@ -26,6 +26,17 @@ This repository is for my attempts and successes at completing the problems at [
 |17|[Number letter counts](https://projecteuler.net/problem=17)|Yes|
 |18|[Maximum path sum I](https://projecteuler.net/problem=18)|Yes|
 |19|[Counting Sundays](https://projecteuler.net/problem=19)|Yes|
-|20|[Factorial digit sum](https://projecteuler.net/problem=20)|No|
+|20|[Factorial digit sum](https://projecteuler.net/problem=20)|Yes|
+|21|[Amicable numbers](https://projecteuler.net/problem=21)|No|
+|22|[Names scores](https://projecteuler.net/problem=22)|No|
+|23|[Non-abundant sums](https://projecteuler.net/problem=23)|No|
+|24|[Lexicographic permutations](https://projecteuler.net/problem=24)|No|
+|25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|No|
+|26|[Reciprocal cycles](https://projecteuler.net/problem=26)|No|
+|27|[Quadratic primes](https://projecteuler.net/problem=27)|No|
+|28|[Number spiral diagonals](https://projecteuler.net/problem=28)|No|
+|29|[Distinct powers](https://projecteuler.net/problem=29)|No|
+|30|[Digit fifth powers](https://projecteuler.net/problem=30)|No|
+|31|[Coin sums](https://projecteuler.net/problem=31)|No|
 
 As I complete more I will update the table
