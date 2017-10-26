@@ -29,10 +29,10 @@ This repository is for my attempts and successes at completing the problems at [
 |20|[Factorial digit sum](https://projecteuler.net/problem=20)|Yes|
 |21|[Amicable numbers](https://projecteuler.net/problem=21)|Yes|
 |22|[Names scores](https://projecteuler.net/problem=22)|Yes|
-|23|[Non-abundant sums](https://projecteuler.net/problem=23)|No|
-|24|[Lexicographic permutations](https://projecteuler.net/problem=24)|No|
-|25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|No|
-|26|[Reciprocal cycles](https://projecteuler.net/problem=26)|No|
+|23|[Non-abundant sums](https://projecteuler.net/problem=23)|Yes|
+|24|[Lexicographic permutations](https://projecteuler.net/problem=24)|Yes|
+|25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|Yes|
+|26|[Reciprocal cycles](https://projecteuler.net/problem=26)|Yes|
 |27|[Quadratic primes](https://projecteuler.net/problem=27)|No|
 |28|[Number spiral diagonals](https://projecteuler.net/problem=28)|No|
 |29|[Distinct powers](https://projecteuler.net/problem=29)|No|
