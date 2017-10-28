@@ -33,10 +33,29 @@ This repository is for my attempts and successes at completing the problems at [
 |24|[Lexicographic permutations](https://projecteuler.net/problem=24)|Yes|
 |25|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|Yes|
 |26|[Reciprocal cycles](https://projecteuler.net/problem=26)|Yes|
-|27|[Quadratic primes](https://projecteuler.net/problem=27)|No|
-|28|[Number spiral diagonals](https://projecteuler.net/problem=28)|No|
+|27|[Quadratic primes](https://projecteuler.net/problem=27)|Yes|
+|28|[Number spiral diagonals](https://projecteuler.net/problem=28)|Yes|
 |29|[Distinct powers](https://projecteuler.net/problem=29)|No|
 |30|[Digit fifth powers](https://projecteuler.net/problem=30)|No|
 |31|[Coin sums](https://projecteuler.net/problem=31)|No|
+|32|[Pandigital products](https://projecteuler.net/problem=32)|No|
+|33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|No|
+|34|[Digit factorials](https://projecteuler.net/problem=34)|No|
+|35|[Circular primes](https://projecteuler.net/problem=35)|No|
+|36|[Double-base palindromes](https://projecteuler.net/problem=36)|No|
+|37|[Truncatable primes](https://projecteuler.net/problem=37)|No|
+|38|[Pandigital multiples](https://projecteuler.net/problem=38)|No|
+|39|[Integer right triangles](https://projecteuler.net/problem=39)|No|
+|40|[Champernowne's constant](https://projecteuler.net/problem=40)|No|
+|41|[Pandigital prime](https://projecteuler.net/problem=41)|No|
+|42|[Coded triangle numbers](https://projecteuler.net/problem=42)|No|
+|43|[Sub-string divisibility](https://projecteuler.net/problem=43)|No|
+|44|[Pentagon numbers](https://projecteuler.net/problem=44)|No|
+|45|[Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)|No|
+|46|[Goldbach's other conjecture](https://projecteuler.net/problem=46)|No|
+|47|[Distinct primes factors](https://projecteuler.net/problem=47)|No|
+|48|[Self powers](https://projecteuler.net/problem=48)|No|
+|49|[Prime permutations](https://projecteuler.net/problem=49)|No|
+|50|[Consecutive prime sum](https://projecteuler.net/problem=50)|No|
 
 As I complete more I will update the table
