@@ -36,8 +36,8 @@ This repository is for my attempts and successes at completing the problems at [
 |27|[Quadratic primes](https://projecteuler.net/problem=27)|Yes|
 |28|[Number spiral diagonals](https://projecteuler.net/problem=28)|Yes|
 |29|[Distinct powers](https://projecteuler.net/problem=29)|No|
-|30|[Digit fifth powers](https://projecteuler.net/problem=30)|No|
-|31|[Coin sums](https://projecteuler.net/problem=31)|No|
+|30|[Digit fifth powers](https://projecteuler.net/problem=30)|Yes|
+|31|[Coin sums](https://projecteuler.net/problem=31)|Yes|
 |32|[Pandigital products](https://projecteuler.net/problem=32)|No|
 |33|[Digit cancelling fractions](https://projecteuler.net/problem=33)|No|
 |34|[Digit factorials](https://projecteuler.net/problem=34)|No|
